@@ -1,0 +1,8 @@
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\bin\Debug\winlistbox.exe.config
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\bin\Debug\winlistbox.exe
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\bin\Debug\winlistbox.pdb
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\obj\Debug\winlistbox.Form1.resources
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\obj\Debug\winlistbox.Properties.Resources.resources
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\obj\Debug\winlistbox.csproj.GenerateResource.Cache
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\obj\Debug\winlistbox.exe
+\\edunet.nz\homefolders\stuhome\30002344\visual studio 2015\Projects\winlistbox\winlistbox\obj\Debug\winlistbox.pdb
